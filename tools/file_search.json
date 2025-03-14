@@ -1,0 +1,19 @@
+{
+    "description": "Fast file search based on fuzzy matching against file path. Use if you know part of the file path but don't know where it's located exactly. Response will be capped to 10 results. Make your query more specific if need to filter results further.",
+    "parameters": {
+        "properties": {
+            "query": {
+                "description": "Fuzzy filename to search for",
+                "type": "string"
+            },
+            "explanation": {
+                "description": "One sentence explanation as to why this tool is being used, and how it contributes to the goal.",
+                "type": "string"
+            }
+        },
+        "required": [
+            "query",
+            "explanation"
+        ]
+    }
+}
