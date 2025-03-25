@@ -56,5 +56,5 @@ To contribute to this project, please follow these steps:
 3. Make your changes
 4. Submit a pull request
 
-
+[Watch how to jailbreak Cursor](https://github.com/shahshrey/cursor-system-prompts/blob/main/jailbreak.mp4)
 
